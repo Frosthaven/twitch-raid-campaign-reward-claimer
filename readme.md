@@ -1,6 +1,6 @@
 # Twitch Raid Campaign Reward Claimer
 
-This tool was hastily cobbled together during Rare's Sea of Thieves Festival of giving event in December, 2021. Rare ran a 72 hour stream event where they would sporatically raid or host Sea of Thieves streamers. If you tuned into one of these raided or hosted streams for 15 minutes, you could claim a drop reward.
+This tool was hastily cobbled together during Rare's Sea of Thieves Festival of Giving event in December, 2021. Rare ran a 72 hour stream event where they would sporatically raid or host Sea of Thieves streamers. If you tuned into one of these raided or hosted streams for 15 minutes, you could claim a drop reward.
 
 This tool runs on python, and leverages the selenium browser automation and testing framework to tune into the appropriate twitch channel with the Microsoft Edge web browser. It then looks for raids or hosting changes on the select channel, and responds by watching the raided or hosted stream for 20 minutes before returning to the main stream. No personal data is saved.
 
