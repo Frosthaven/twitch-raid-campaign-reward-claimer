@@ -9,9 +9,10 @@ This solution includes a browser extension, [Automatic Drops & Twitch Channel Po
 ## How To Run
 
 1. Install python: https://www.microsoft.com/store/productId/9P7QFQMJRFP7
-2. Double click run.bat to start. First start will install dependencies.
-3. Wait for the login prompt on twitch to appear and then login.
-4. That's it! Mute the tab if you want. You may not want to minimize it, though, in case twitch decides to stop counting watch time.
+2. [Download the source code zip file](https://github.com/Frosthaven/twitch-raid-campaign-reward-claimer/archive/refs/heads/main.zip) and extract it whereever you want
+3. Double click run.bat to start. First start will install dependencies.
+4. Wait for the login prompt on twitch to appear and then login.
+5. That's it! Mute the tab if you want. You may not want to minimize it, though, in case twitch decides to stop counting watch time.
 
 ## Known Issues
 
