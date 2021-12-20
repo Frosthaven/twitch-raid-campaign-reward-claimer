@@ -14,6 +14,18 @@ This solution includes a browser extension, [Automatic Drops & Twitch Channel Po
 4. Wait for the login prompt on twitch to appear and then login.
 5. That's it! Mute the tab if you want. You may not want to minimize it, though, in case twitch decides to stop counting watch time.
 
+## Extra Customizations
+
+If any other broadcaster runs a similar event in the future, you can open `index.py` in a text editor and alter the values below to your needs:
+
+```py
+# CONFIG ***********************************************************************
+#*******************************************************************************
+
+main_channel = 'https://twitch.tv/seaofthieves'
+watch_time_minutes = 20
+```
+
 ## Known Issues
 
 -   Python is not my primary language, and this had to be done under the pressure of speed when the event launched. Bugs may occur, though the tool ran smoothly for this event.
