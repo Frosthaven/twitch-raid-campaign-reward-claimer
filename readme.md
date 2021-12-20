@@ -28,5 +28,5 @@ watch_time_minutes = 20
 
 ## Known Issues
 
--   Python is not my primary language, and this had to be done under the pressure of speed when the event launched. Bugs may occur, though the tool ran smoothly for this event.
+-   Python is not my primary language, and this had to be done under the pressure of speed when the event launched. Bugs may occur.
 -   Using msedgedriver under selenium, an edge taskbar entry will be pinned after use. It is safe to unpin this until a fix can be found.
